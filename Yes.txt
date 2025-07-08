@@ -1,1 +1,12 @@
+git push -- zamieszcza zmiany lokalne w commicie w repozytorium zdalny
+git checkout -- zmienia branch jeżeli istnieje
+git commit -- dodaje zmiany lokalne do commitu dla dalniejszego ich zamieszczenia w repozytorium zdalny
+
+
+polecenia do zamieszczenia zmian w repo zdalnym:
+
+git add (nazwy plików które będziemy dodawać do commitu / '.' jeżeli chcemy dodać wszystkie pliky)
+git commit -m "(wiadomość commitu)"
+git push
+
 https://github.com/SerhiiChornii/w72224_Programowanie_Kol_GL01
